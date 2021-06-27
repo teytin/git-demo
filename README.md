@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website contents
 
-qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm the quick brown fox jumped over the fence.
-
-sdshafgbefwefh ksbck ays fgichskjbchjsvcykuff hsvsydgquwdjwbdwff awdgyqwduiqh   oqjd awdhaiu.
+1. index.html
